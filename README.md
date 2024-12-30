@@ -3,6 +3,7 @@
 # Sub-Projects
 - OS - Hojuix for x86_64 (The main project)
 - PiOS - Experiments with OSDev on AArch64 (Specifically for Raspberry Pi 3/4)
+- RiscV - My personal exploration into RiscV (RV64, eventually under OpenSBI)
 
 # Notes
 - Libk is currently built separate from the 64 bit kernel, but does not have to be moved
